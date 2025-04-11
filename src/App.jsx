@@ -1,6 +1,6 @@
 import "./App.css";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import GridView from "../src/GridView";
+import GridView from "./src/GridView";
 import Todo from "./Todo";
 import Navbar from "./Navbar";
 import ProfileCard from "./assets/Profilecard";
