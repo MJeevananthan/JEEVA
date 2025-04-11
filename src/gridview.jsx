@@ -1,5 +1,5 @@
 import React from "react";
-import "./GridView.css";
+import "./gridview.css";
 const GridView = () => {
     
   let students = [
